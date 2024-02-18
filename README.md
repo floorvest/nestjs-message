@@ -6,6 +6,8 @@ Example to send message to users using nestjs
 
 import the example.sql first and copy .env.example to .env
 
+for swagger documentation, can access to http://localhost:3000/api
+
 ```bash
 $ yarn install
 ```
