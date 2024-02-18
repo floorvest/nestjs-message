@@ -111,7 +111,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `email`, `timezone`, `location`, `first_name`, `last_name`, `last_announce_birthday`, `birth_date`, `is_married`, `marriage_date`) VALUES
 (1, 'patranto.prabowo@gmail.com', 'Asia/Jakarta', 'Jakarta', 'Patranto', 'Prabowo', 2024, '2024-02-02', 0, NULL),
-(2, 'dean.winchester@gmail.com', 'Asia/Jakarta', 'Jakarta', 'Dean', 'Winchester', 2023, '2024-02-02', 0, NULL),
+(2, 'dean.winchester@gmail.com', 'US/Arizona', 'Arizona', 'Dean', 'Winchester', 2023, '2024-02-02', 0, NULL),
 (3, 'sam.winchester@gmail.com', 'Asia/Singapore', 'Singapore', 'Sam', 'Winchester', 2024, '2024-02-01', 0, NULL),
 (8, 'floorvest@gmail.com', 'Asia/Jakarta', 'Jakarta', 'Kusnadi', 'Mulyana', 0, '2024-02-02', 0, NULL);
 
